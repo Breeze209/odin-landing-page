@@ -177,3 +177,14 @@ body {
     border-radius: 5px;
     font-weight: 700;
 }
+
+.footer {
+    display: flex;
+    padding: 30px;
+    background-color: #1f2937;
+}
+
+.footer-text {
+    color: #f9faf8;
+    margin: auto;
+}
