@@ -111,3 +111,26 @@ body {
 .subtext {
     text-align: center;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 100px 60px 100px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    font-style: italic;
+    margin: 0;
+}
+
+.quoter {
+    align-self: flex-end;
+    font-weight: 900;
+    margin-right: 30px;
+}
